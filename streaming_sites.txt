@@ -26,7 +26,7 @@ gomovies.sx
 gostream.to
 himovies.sx
 justwatch.com
-kanopy.com	/en
+kanopy.com
 lookmovie.onl
 losmovies.city
 losmovies.id
@@ -49,7 +49,7 @@ primewiremx.lol
 projectfreetv.sx
 putlocker-is.org
 putlocker.vip
-real-solarmovie.com	/home.html
+real-solarmovie.com
 seret.top
 sflix.to
 sling.com
