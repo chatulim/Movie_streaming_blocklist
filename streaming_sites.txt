@@ -25,6 +25,7 @@ go-moviejoy.pages.dev
 gomovies.sx
 gostream.to
 himovies.sx
+hoopladigital.com
 justwatch.com
 kanopy.com
 lookmovie.onl
